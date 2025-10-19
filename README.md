@@ -1,0 +1,2 @@
+# website-latihan-penjualan
+web
